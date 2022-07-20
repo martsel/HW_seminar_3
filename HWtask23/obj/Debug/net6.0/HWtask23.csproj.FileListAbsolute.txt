@@ -1,0 +1,15 @@
+C:\GeekBrains\изучение С#\seminar3\HWtask23\bin\Debug\net6.0\HWtask23.exe
+C:\GeekBrains\изучение С#\seminar3\HWtask23\bin\Debug\net6.0\HWtask23.deps.json
+C:\GeekBrains\изучение С#\seminar3\HWtask23\bin\Debug\net6.0\HWtask23.runtimeconfig.json
+C:\GeekBrains\изучение С#\seminar3\HWtask23\bin\Debug\net6.0\HWtask23.dll
+C:\GeekBrains\изучение С#\seminar3\HWtask23\bin\Debug\net6.0\HWtask23.pdb
+C:\GeekBrains\изучение С#\seminar3\HWtask23\obj\Debug\net6.0\HWtask23.csproj.AssemblyReference.cache
+C:\GeekBrains\изучение С#\seminar3\HWtask23\obj\Debug\net6.0\HWtask23.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\изучение С#\seminar3\HWtask23\obj\Debug\net6.0\HWtask23.AssemblyInfoInputs.cache
+C:\GeekBrains\изучение С#\seminar3\HWtask23\obj\Debug\net6.0\HWtask23.AssemblyInfo.cs
+C:\GeekBrains\изучение С#\seminar3\HWtask23\obj\Debug\net6.0\HWtask23.csproj.CoreCompileInputs.cache
+C:\GeekBrains\изучение С#\seminar3\HWtask23\obj\Debug\net6.0\HWtask23.dll
+C:\GeekBrains\изучение С#\seminar3\HWtask23\obj\Debug\net6.0\refint\HWtask23.dll
+C:\GeekBrains\изучение С#\seminar3\HWtask23\obj\Debug\net6.0\HWtask23.pdb
+C:\GeekBrains\изучение С#\seminar3\HWtask23\obj\Debug\net6.0\HWtask23.genruntimeconfig.cache
+C:\GeekBrains\изучение С#\seminar3\HWtask23\obj\Debug\net6.0\ref\HWtask23.dll
